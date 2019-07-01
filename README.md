@@ -24,13 +24,13 @@ Jeżeli chcesz uruchomić swój program i tym samym sprawdzić jego działanie, 
 Krok 1
 
 Stwórz wewnątrz klasy Calculator metodę main, a następnie znajdź zieloną strzałkę wskazaną na rysunku:
-![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)
+![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)
 
 Krok 2
 
 Po kliknięciu wybierz Run 'Calculator.main()'
 
-![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)![alt text](https://kodilla.com/static/bootcamp-java/java-4_1f.png)
+![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)
 
 Jeżeli wewnątrz metody someMethod() dodasz przykładowo System.out.println("It works!"); to wynik naturalnie pojawi się w konsoli :)
 
