@@ -30,7 +30,7 @@ Krok 2
 
 Po kliknięciu wybierz Run 'Calculator.main()'
 
-![alt text](https://kodilla.com/static/bootcamp-java/java-4_1e.jpg)
+![alt text](https://kodilla.com/static/bootcamp-java/java-4_1f.png)
 
 Jeżeli wewnątrz metody someMethod() dodasz przykładowo System.out.println("It works!"); to wynik naturalnie pojawi się w konsoli :)
 
